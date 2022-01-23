@@ -57,6 +57,7 @@ body {
 
 .main__img {
   width: 90%;
+  max-width: 568px;
   margin-bottom: 40px;
   align-self: center;
 }

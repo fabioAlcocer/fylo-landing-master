@@ -245,6 +245,12 @@ body {
   color: var(--footer-text);
 }
 
+.footer__container {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
 .footer__logo {
   width: 40%;
   max-width: 150px;
